@@ -1,0 +1,6 @@
+Weather Stats for - BALASORE  || 23 Jun 2021 | 02:54:34 PM
+-------------------------------------------------------------
+Current temperature is: 33.96 deg C
+Current weather desc  : light rain
+Current Humidity      : 53 %
+Current wind speed    : 5.86kmph
